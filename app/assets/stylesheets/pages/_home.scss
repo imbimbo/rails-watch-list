@@ -34,7 +34,7 @@ a {
 .card-category {
   background-size: cover;
   background-position: center;
-  height: 160px;
+  height: 180px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -44,9 +44,6 @@ a {
   box-shadow: 0 0 15px rgba(0,0,0,0.2);
 }
 
-.card-category:hover {
-  height: 200px;
-}
 
 .card-category a {
   color: #ffffff;
